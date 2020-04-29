@@ -1,0 +1,45 @@
+[27-Apr-2020 17:04:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'iix19.sharehostserver.com' (using password: NO)' in /home4/agungmyi/utspabw.agung18.my.id/database.php:3
+Stack trace:
+#0 /home4/agungmyi/utspabw.agung18.my.id/database.php(3): PDO->__construct('mysql:host=103....', 'root', '')
+#1 {main}
+  thrown in /home4/agungmyi/utspabw.agung18.my.id/database.php on line 3
+[27-Apr-2020 17:04:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'iix19.sharehostserver.com' (using password: NO)' in /home4/agungmyi/utspabw.agung18.my.id/database.php:3
+Stack trace:
+#0 /home4/agungmyi/utspabw.agung18.my.id/database.php(3): PDO->__construct('mysql:host=103....', 'root', '')
+#1 {main}
+  thrown in /home4/agungmyi/utspabw.agung18.my.id/database.php on line 3
+[27-Apr-2020 17:04:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'iix19.sharehostserver.com' (using password: NO)' in /home4/agungmyi/utspabw.agung18.my.id/database.php:3
+Stack trace:
+#0 /home4/agungmyi/utspabw.agung18.my.id/database.php(3): PDO->__construct('mysql:host=103....', 'root', '')
+#1 {main}
+  thrown in /home4/agungmyi/utspabw.agung18.my.id/database.php on line 3
+[27-Apr-2020 17:05:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'iix19.sharehostserver.com' (using password: NO)' in /home4/agungmyi/utspabw.agung18.my.id/database.php:3
+Stack trace:
+#0 /home4/agungmyi/utspabw.agung18.my.id/database.php(3): PDO->__construct('mysql:host=103....', 'root', '')
+#1 {main}
+  thrown in /home4/agungmyi/utspabw.agung18.my.id/database.php on line 3
+[27-Apr-2020 17:10:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'agungmyi_agung'@'iix19.sharehostserver.com' to database 'agungdddmyi_cruddatabase'' in /home4/agungmyi/utspabw.agung18.my.id/database.php:3
+Stack trace:
+#0 /home4/agungmyi/utspabw.agung18.my.id/database.php(3): PDO->__construct('mysql:host=103....', 'agungmyi_agung', 'agung181100')
+#1 {main}
+  thrown in /home4/agungmyi/utspabw.agung18.my.id/database.php on line 3
+[27-Apr-2020 17:10:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'agungmyi_agung'@'iix19.sharehostserver.com' to database 'agungdddmyi_cruddatabase'' in /home4/agungmyi/utspabw.agung18.my.id/database.php:3
+Stack trace:
+#0 /home4/agungmyi/utspabw.agung18.my.id/database.php(3): PDO->__construct('mysql:host=103....', 'agungmyi_agung', 'agung181100')
+#1 {main}
+  thrown in /home4/agungmyi/utspabw.agung18.my.id/database.php on line 3
+[27-Apr-2020 18:20:25 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home4/agungmyi/utspabw.agung18.my.id/index.php on line 45
+[29-Apr-2020 13:26:23 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home4/agungmyi/utspabw.agung18.my.id/utspabw/login.php on line 3
+[29-Apr-2020 13:26:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home4/agungmyi/utspabw.agung18.my.id/utspabw/login.php on line 3
+[29-Apr-2020 13:26:23 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home4/agungmyi/utspabw.agung18.my.id/utspabw/login.php on line 3
+[29-Apr-2020 13:26:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home4/agungmyi/utspabw.agung18.my.id/utspabw/login.php on line 3
+[29-Apr-2020 13:26:27 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home4/agungmyi/utspabw.agung18.my.id/utspabw/login.php on line 3
+[29-Apr-2020 13:26:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home4/agungmyi/utspabw.agung18.my.id/utspabw/login.php on line 3
+[29-Apr-2020 13:26:32 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home4/agungmyi/utspabw.agung18.my.id/utspabw/login.php on line 3
+[29-Apr-2020 13:26:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home4/agungmyi/utspabw.agung18.my.id/utspabw/login.php on line 3
+[29-Apr-2020 13:48:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home4/agungmyi/utspabw.agung18.my.id/utspabw/crud.php on line 12
+[29-Apr-2020 13:48:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home4/agungmyi/utspabw.agung18.my.id/utspabw/crud.php on line 12
+[29-Apr-2020 14:36:10 UTC] PHP Notice:  Undefined index: user in /home4/agungmyi/utspabw.agung18.my.id/utspabw/crud.php on line 12
+[29-Apr-2020 14:36:11 UTC] PHP Notice:  Undefined index: user in /home4/agungmyi/utspabw.agung18.my.id/utspabw/crud.php on line 12
+[29-Apr-2020 14:36:12 UTC] PHP Notice:  Undefined index: user in /home4/agungmyi/utspabw.agung18.my.id/utspabw/crud.php on line 12
+[29-Apr-2020 14:36:12 UTC] PHP Notice:  Undefined index: user in /home4/agungmyi/utspabw.agung18.my.id/utspabw/crud.php on line 12
